@@ -1,555 +1,429 @@
 [
   {
-    "Title": "Animatica",
-    "Description": "Позволяет использовать анимированные текстуры (например, светящуюся броню, кастомное небо) из ресурс-паков OptiFine на платформе Fabric.",
-    "Version": "v1.0",
-    "FileName": "Animatica-v0.6.1+1.20.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Animatica-v0.6.1%2B1.20.jar"
-  },
-  {
-    "Title": "AppleSkin",
-    "Description": "Полезный мод на интерфейс: показывает, сколько единиц сытости и насыщения восстановит еда при наведении на неё в инвентаре.",
-    "Version": "v1.0",
-    "FileName": "appleskin-fabric-mc1.20.1-2.5.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/appleskin-fabric-mc1.20.1-2.5.1.jar"
-  },
-  {
-    "Title": "Architectury API",
-    "Description": "Промежуточная техническая библиотека (API), необходимая для обеспечения совместимости и запуска многих современных модов.",
-    "Version": "v1.0",
-    "FileName": "architectury-9.2.14-fabric.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/architectury-9.2.14-fabric.jar"
-  },
-  {
-    "Title": "Bad Packets",
-    "Description": "Вспомогательное системное ядро, улучшающее передачу сетевых пакетов данных между клиентом игры и сервером.",
-    "Version": "v1.0",
-    "FileName": "badpackets-fabric-0.4.3.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/badpackets-fabric-0.4.3.jar"
-  },
-  {
-    "Title": "Better Animations Collection",
-    "Description": "Кардинально улучшает и детализирует анимации стандартных ванильных мобов (кошек, собак, криперов, коров), делая их живыми.",
-    "Version": "v1.0",
-    "FileName": "BetterAnimationsCollection-v8.0.0-1.20.1-Fabric.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/BetterAnimationsCollection-v8.0.0-1.20.1-Fabric.jar"
-  },
-  {
-    "Title": "Better Ping Display",
-    "Description": "Выводит точный пинг игроков в миллисекундах (мс) в таблице Tab вместо классических непонятных зеленых палочек.",
-    "Version": "v1.0",
-    "FileName": "betterpingdisplay-1.1.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/betterpingdisplay-1.1.1.jar"
-  },
-  {
-    "Title": "Blur",
-    "Description": "Красиво и мягко размывает задний игровой фон при открытии инвентаря, чата, сундуков или меню паузы.",
-    "Version": "v1.0",
-    "FileName": "blur-3.1.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/blur-3.1.0.jar"
-  },
-  {
-    "Title": "Bookshelf",
-    "Description": "Технический фреймворк и база кодов, используемая разработчиками для создания продвинутых игровых механик.",
-    "Version": "v1.0",
-    "FileName": "Bookshelf-Fabric-1.20.1-20.1.13.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Bookshelf-Fabric-1.20.1-20.1.13.jar"
-  },
-  {
-    "Title": "Breezy",
-    "Description": "Атмосферный физический мод, добавляющий механику ветра, который реалистично качает листву деревьев, траву и частицы.",
-    "Version": "v1.0",
-    "FileName": "breezy-fabric-1.20.1-0.1.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/breezy-fabric-1.20.1-0.1.1.jar"
-  },
-  {
-    "Title": "Carry On",
-    "Description": "Геймплейный хит: позволяет поднять руками (Shift + ПКМ) и перенести заполненный сундук, печку или мелкого моба без их разрушения.",
-    "Version": "v1.0",
-    "FileName": "carryon-fabric-1.20.1-2.1.2.7.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/carryon-fabric-1.20.1-2.1.2.7.jar"
-  },
-  {
-    "Title": "Chat Animation",
-    "Description": "Добавляет приятную, плавную и настраиваемую анимацию появления новых сообщений в окне игрового чата.",
-    "Version": "v1.0",
-    "FileName": "chatanimation-fabric-1.1.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/chatanimation-fabric-1.1.1.jar"
-  },
-  {
-    "Title": "Chat Heads",
-    "Description": "Отображает миниатюрную 3D-голову скина игрока прямо перед его текстом в глобальном или локальном чате.",
-    "Version": "v1.0",
-    "FileName": "chatheads-0.10.31-fabric-1.20.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/chatheads-0.10.31-fabric-1.20.jar"
-  },
-  {
-    "Title": "Cherished Worlds",
-    "Description": "Позволяет закреплять (добавлять в избранное) ваши любимые миры в синглплеере, чтобы они всегда были на самом верху списка.",
-    "Version": "v1.0",
-    "FileName": "cherished-worlds-fabric-6.0.3+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/cherished-worlds-fabric-6.0.3%2B1.20.1.jar"
-  },
-  {
-    "Title": "Clean F3",
-    "Description": "Очищает стандартный оверлей отладки F3 от терабайтов ненужного текста, оставляя только координаты, FPS и важную инфу.",
-    "Version": "v1.0",
-    "FileName": "CleanF3-1.2.1-1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/CleanF3-1.2.1-1.20.1.jar"
-  },
-  {
-    "Title": "Click Through",
-    "Description": "Удобство: позволяет кликать ЛКМ/ПКМ сквозь висящие рамки и таблички, чтобы быстро открывать сундуки за ними.",
-    "Version": "v1.0",
-    "FileName": "clickthrough-1.20.1-fabric-0.4.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/clickthrough-1.20.1-fabric-0.4.1.jar"
-  },
-  {
-    "Title": "Clumps",
-    "Description": "Оптимизация: собирает кучу разрозненных сфер опыта на фермах в один крупный сгусток, полностью убирая лаги.",
-    "Version": "v1.0",
-    "FileName": "Clumps-fabric-1.20.1-12.0.0.3.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Clumps-fabric-1.20.1-12.0.0.3.jar"
-  },
-  {
-    "Title": "Collective API",
-    "Description": "Техническая библиотека-донор кода, необходимая для синхронизации и запуска многих дата-паков и геймплейных модов.",
-    "Version": "v1.0",
-    "FileName": "collective-1.20.1-7.84.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/collective-1.20.1-7.84.jar"
-  },
-  {
-    "Title": "Continuity",
-    "Description": "Обеспечивает поддержку соединенных текстур стекол, книжных полок и песчаника (как в OptiFine) с высокой производительностью.",
-    "Version": "v1.0",
-    "FileName": "continuity-3.0.0-beta.4+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/continuity-3.0.0-beta.4%2B1.20.1.jar"
-  },
-  {
-    "Title": "CreativeCore",
-    "Description": "Универсальное техническое ядро для обработки сложных анимаций, моделей и кастомных GUI-элементов.",
-    "Version": "v1.0",
-    "FileName": "CreativeCore_FABRIC_v2.11.30_mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/CreativeCore_FABRIC_v2.11.30_mc1.20.1.jar"
-  },
-  {
-    "Title": "Cull Leaves",
-    "Description": "Буст FPS: убирает рендеринг скрытых внутренних граней блоков листвы, значительно повышая плавность игры в лесных биомах.",
-    "Version": "v1.0",
-    "FileName": "cullleaves-fabric-3.2.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/cullleaves-fabric-3.2.0.jar"
-  },
-  {
-    "Title": "Dark Loading Screen",
-    "Description": "Заменяет выжигающий глаза ярко-красный стартовый экран загрузки Mojang на стильный, комфортный темно-серый цвет.",
-    "Version": "v1.0",
-    "FileName": "DarkLoadingScreen-1.6.14.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/DarkLoadingScreen-1.6.14.jar"
-  },
-  {
     "Title": "Debugify",
-    "Description": "Исправляет более 60 известных и подтвержденных багов самой игры Minecraft без изменения ванильной механики.",
+    "Description": "Модификация Debugify. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
     "FileName": "Debugify-1.20.4+1.1.jar",
     "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Debugify-1.20.4+1.1.jar"
   },
   {
-    "Title": "Diagonal Fences",
-    "Description": "Декор: добавляет возможность соединять заборы по диагонали, что сильно расширяет возможности красивого строительства.",
+    "Title": "Diagonal Fences v20.4.1",
+    "Description": "Модификация Diagonal Fences v20.4.1. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "diagonalfences-v8.0.3-1.20.1-Fabric.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/diagonalfences-v8.0.3-1.20.1-Fabric.jar"
+    "FileName": "DiagonalFences-v20.4.1-1.20.4-Fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/DiagonalFences-v20.4.1-1.20.4-Fabric.jar"
   },
   {
-    "Title": "Dynamic FPS",
-    "Description": "Оптимизация: автоматически снижает частоту кадров и нагрузку на видеокарту/процессор, когда Minecraft свернут.",
+    "Title": "Ephero Lib FABRIC",
+    "Description": "Модификация Ephero Lib FABRIC. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "dynamic-fps-3.4.3.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/dynamic-fps-3.4.3.jar"
+    "FileName": "EpheroLib-FABRIC-1.2.0-1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/EpheroLib-FABRIC-1.2.0-1.20.4.jar"
   },
   {
-    "Title": "Eating Animation",
-    "Description": "Погружение: добавляет полноценную 3D-анимацию откусывания еды и питья зелий, когда вы держите их в руках.",
+    "Title": "Euphoria Patcher",
+    "Description": "Модификация Euphoria Patcher. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "eatinganimation-1.20-fabric-2.2.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/eatinganimation-1.20-fabric-2.2.0.jar"
-  },
-  {
-    "Title": "Entity Culling",
-    "Description": "Мощная оптимизация: прекращает отрисовку мобов, сундуков и сущностей, которые находятся вне зоны вашей видимости (за стенами).",
-    "Version": "v1.0",
-    "FileName": "entityculling-fabric-1.6.2-mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/entityculling-fabric-1.6.2-mc1.20.1.jar"
-  },
-  {
-    "Title": "Equipment Compare",
-    "Description": "Удобство: при наведении на броню или оружие показывает всплывающее окно со сравнением характеристик того, что на вас надето.",
-    "Version": "v1.0",
-    "FileName": "equipmentcompare-fabric-1.20.1-1.3.7.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/equipmentcompare-fabric-1.20.1-1.3.7.jar"
-  },
-  {
-    "Title": "Fabric API",
-    "Description": "Главное системное ядро, необходимое для работы 99% всех существующих модов для загрузчика Fabric.",
-    "Version": "v1.0",
-    "FileName": "fabric-api-0.92.2+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fabric-api-0.92.2%2B1.20.1.jar"
-  },
-  {
-    "Title": "Fabric Language Kotlin",
-    "Description": "Системный плагин-библиотека, позволяющий лаунчеру выполнять моды, написанные на современном языке Kotlin.",
-    "Version": "v1.0",
-    "FileName": "fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar"
-  },
-  {
-    "Title": "Falling Leaves",
-    "Description": "Атмосфера: добавляет красивые эффекты опадающих листьев, мягко слетающих с деревьев на землю.",
-    "Version": "v1.0",
-    "FileName": "fallingleaves-1.15.5.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fallingleaves-1.15.5.jar"
+    "FileName": "EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/EuphoriaPatcher-1.6.5-r5.5.1-fabric.jar"
   },
   {
     "Title": "Falling Tree",
-    "Description": "Реалистичная рубка деревьев: ломает всё дерево целиком (вместе со всей листвой), если срубить самый нижний блок.",
+    "Description": "Модификация Falling Tree. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "FallingTree-1.20.1-4.3.4.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/FallingTree-1.20.1-4.3.4.jar"
+    "FileName": "FallingTree-1.20.4-1.20.4.3.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/FallingTree-1.20.4-1.20.4.3.jar"
   },
   {
-    "Title": "Ferrite Core",
-    "Description": "Снижение RAM: оптимизирует хранение моделей и игровых текстур в памяти, снижая аппетиты Minecraft на пару гигабайт ОЗУ.",
+    "Title": "Forge Config APIPort v20.4.3",
+    "Description": "Модификация Forge Config APIPort v20.4.3. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "ferritecore-6.0.1-fabric.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/ferritecore-6.0.1-fabric.jar"
+    "FileName": "ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar"
   },
   {
-    "Title": "Forge Config API Port",
-    "Description": "Вспомогательный порт, позволяющий модам, изначально созданным под Forge, корректно читать свои конфигурации внутри Fabric.",
+    "Title": "Immediately Fast Fabric",
+    "Description": "Модификация Immediately Fast Fabric. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "forgeconfigapiport-v8.0.0-1.20.1-Fabric.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/forgeconfigapiport-v8.0.0-1.20.1-Fabric.jar"
-  },
-  {
-    "Title": "Fusion",
-    "Description": "Современное графическое API, расширяющее стандартные возможности движка рендеринга текстур блоков.",
-    "Version": "v1.0",
-    "FileName": "fusion-1.1.1-fabric-mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fusion-1.1.1-fabric-mc1.20.1.jar"
-  },
-  {
-    "Title": "Iceberg",
-    "Description": "Специальная библиотека-загрузчик интерфейсов, необходимая для рендеринга меню кастомизации.",
-    "Version": "v1.0",
-    "FileName": "iceberg-fabric-1.20.1-1.1.18.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/iceberg-fabric-1.20.1-1.1.18.jar"
-  },
-  {
-    "Title": "Immediately Fast",
-    "Description": "Серьезное ускорение: форсирует отрисовку шрифтов, табличек, инвентарей и частиц, убирая микрофризы FPS.",
-    "Version": "v1.0",
-    "FileName": "immediatelyfast-fabric-1.2.18+1.20.4.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/immediatelyfast-fabric-1.2.18%2B1.20.4.jar"
-  },
-  {
-    "Title": "Indium",
-    "Description": "Добавление совместимости: обеспечивает поддержку продвинутого рендеринга (модели блоков, кастомная трава) поверх оптимизатора Sodium.",
-    "Version": "v1.0",
-    "FileName": "indium-1.0.30+mc1.20.4.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/indium-1.0.30%2Bmc1.20.4.jar"
+    "FileName": "ImmediatelyFast-Fabric-1.2.15+1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/ImmediatelyFast-Fabric-1.2.15+1.20.4.jar"
   },
   {
     "Title": "Inventory Sorter",
-    "Description": "Один клик: добавляет кнопку моментальной автоматической сортировки предметов в инвентаре, сундуках и шалкерах.",
+    "Description": "Модификация Inventory Sorter. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "inventorysorter-1.20.1-23.0.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/inventorysorter-1.20.1-23.0.1.jar"
-  },
-  {
-    "Title": "Iris Shaders",
-    "Description": "Современный движок шейдеров, работающий в связке с Sodium. Дает фотореалистичную графику без диких просадок FPS.",
-    "Version": "v1.0",
-    "FileName": "iris-mc1.20.1-1.7.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/iris-mc1.20.1-1.7.0.jar"
+    "FileName": "InventorySorter-1.9.0-1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/InventorySorter-1.9.0-1.20.4.jar"
   },
   {
     "Title": "Jade",
-    "Description": "Лучший информатор: отображает мини-окошко сверху экрана, показывая здоровье моба, стадию роста грядки или содержимое сундука.",
+    "Description": "Модификация Jade. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "Jade-1.20.1-fabric-11.8.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Jade-1.20.1-fabric-11.8.0.jar"
+    "FileName": "Jade-1.20.4-fabric-13.3.1.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Jade-1.20.4-fabric-13.3.1.jar"
   },
   {
-    "Title": "Just Enough Items (JEI)",
-    "Description": "Самый популярный каталог рецептов: выводит список всех блоков справа от инвентаря с возможностью смотреть любые крафты.",
+    "Title": "Presence Footsteps",
+    "Description": "Модификация Presence Footsteps. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "jei-1.20.1-fabric-15.3.0.4.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/jei-1.20.1-fabric-15.3.0.4.jar"
+    "FileName": "PresenceFootsteps-1.9.4+1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/PresenceFootsteps-1.9.4+1.20.4.jar"
   },
   {
-    "Title": "Konkrete",
-    "Description": "Вспомогательное системное ядро, используемое для создания и обработки кастомных меню интерфейса.",
+    "Title": "Puzzles Lib v20.4.53",
+    "Description": "Модификация Puzzles Lib v20.4.53. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "konkrete_fabric_1.8.0_mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/konkrete_fabric_1.8.0_mc1.20.1.jar"
+    "FileName": "PuzzlesLib-v20.4.53-1.20.4-Fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/PuzzlesLib-v20.4.53-1.20.4-Fabric.jar"
   },
   {
-    "Title": "Lamb Dynamic Lights",
-    "Description": "Динамический свет: факелы, светящиеся камни и лава начинают полноценно освещать пещеры прямо у вас в руках или будучи выброшенными.",
+    "Title": "Xaeros Minimap 25.2.6 Fabric 1.20.4",
+    "Description": "Модификация Xaeros Minimap 25.2.6 Fabric 1.20.4. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "lambdynamiclights-2.3.2+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/lambdynamiclights-2.3.2%2B1.20.1.jar"
+    "FileName": "Xaeros_Minimap_25.2.6_Fabric_1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Xaeros_Minimap_25.2.6_Fabric_1.20.4.jar"
   },
   {
-    "Title": "Language Reload",
-    "Description": "Убирает долгие фризы игры при смене языка и добавляет удобный моментальный поиск в меню выбора языков.",
+    "Title": "Yet Another Config Lib",
+    "Description": "Модификация Yet Another Config Lib. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "languagereload-1.5.10+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/languagereload-1.5.10%2B1.20.1.jar"
+    "FileName": "YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/YetAnotherConfigLib-3.4.2+1.20.4-fabric.jar"
   },
   {
-    "Title": "LazyDFU",
-    "Description": "Ускорение старта: откладывает запуск неиспользуемых систем миграции данных DataFixerUpper, заставляя клиент запускаться в разы быстрее.",
+    "Title": "Zoomify",
+    "Description": "Модификация Zoomify. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "Zoomify-2.13.5+1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Zoomify-2.13.5+1.20.4.jar"
+  },
+  {
+    "Title": "dynamic fps",
+    "Description": "Модификация dynamic fps. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "dynamic-fps-3.4.3+minecraft-1.20.0-fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/dynamic-fps-3.4.3+minecraft-1.20.0-fabric.jar"
+  },
+  {
+    "Title": "eating animation",
+    "Description": "Модификация eating animation. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "eating-animation-1.20+1.9.61.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/eating-animation-1.20+1.9.61.jar"
+  },
+  {
+    "Title": "entity model features fabric 1.20.4",
+    "Description": "Модификация entity model features fabric 1.20.4. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "entity_model_features_fabric_1.20.4-2.0.2.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/entity_model_features_fabric_1.20.4-2.0.2.jar"
+  },
+  {
+    "Title": "entity texture features fabric 1.20.4",
+    "Description": "Модификация entity texture features fabric 1.20.4. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "entity_texture_features_fabric_1.20.4-6.0.1.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/entity_texture_features_fabric_1.20.4-6.0.1.jar"
+  },
+  {
+    "Title": "entityculling",
+    "Description": "Модификация entityculling. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "entityculling-fabric-1.6.5-mc1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/entityculling-fabric-1.6.5-mc1.20.4.jar"
+  },
+  {
+    "Title": "fabric api",
+    "Description": "Модификация fabric api. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "fabric-api-0.97.0+1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fabric-api-0.97.0+1.20.4.jar"
+  },
+  {
+    "Title": "fabric api",
+    "Description": "Модификация fabric api. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "fabric-api-0.97.3+1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fabric-api-0.97.3+1.20.4.jar"
+  },
+  {
+    "Title": "fabric language kotlin",
+    "Description": "Модификация fabric language kotlin. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "fabric-language-kotlin-1.10.20+kotlin.1.9.24.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fabric-language-kotlin-1.10.20+kotlin.1.9.24.jar"
+  },
+  {
+    "Title": "fallingleaves",
+    "Description": "Модификация fallingleaves. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "fallingleaves-1.15.6+1.20.1.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/fallingleaves-1.15.6+1.20.1.jar"
+  },
+  {
+    "Title": "ferritecore",
+    "Description": "Модификация ferritecore. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "ferritecore-6.0.3-fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/ferritecore-6.0.3-fabric.jar"
+  },
+  {
+    "Title": "iris",
+    "Description": "Модификация iris. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "iris-1.7.0+mc1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/iris-1.7.0+mc1.20.4.jar"
+  },
+  {
+    "Title": "jei",
+    "Description": "Модификация jei. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "jei-1.20.4-fabric-17.3.1.5.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/jei-1.20.4-fabric-17.3.1.5.jar"
+  },
+  {
+    "Title": "lambdynamiclights",
+    "Description": "Модификация lambdynamiclights. Проверенная и оптимизированная версия для нашей сборки.",
+    "Version": "v1.0",
+    "FileName": "lambdynamiclights-2.3.4+1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/lambdynamiclights-2.3.4+1.20.4.jar"
+  },
+  {
+    "Title": "lazydfu",
+    "Description": "Модификация lazydfu. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
     "FileName": "lazydfu-0.1.3.jar",
     "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/lazydfu-0.1.3.jar"
   },
   {
-    "Title": "Leash Wearable",
-    "Description": "Механика: позволяет вешать поводок с ведомым мобом прямо на себя (на слот брони или спину), освобождая руку.",
+    "Title": "letmedespawn",
+    "Description": "Модификация letmedespawn. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "leashwearable-1.20.1-1.0.6.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/leashwearable-1.20.1-1.0.6.jar"
+    "FileName": "letmedespawn-fabric-1.20.x-1.2.0.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/letmedespawn-fabric-1.20.x-1.2.0.jar"
   },
   {
-    "Title": "Let Me Despawn",
-    "Description": "Оптимизация сущностей: заставляет мобов, ушедших далеко за радиус видимости игрока, стабильно пропадать, очищая процессор.",
+    "Title": "lithium",
+    "Description": "Модификация lithium. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "letmedespawn-fabric-1.20.1-1.2.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/letmedespawn-fabric-1.20.1-1.2.0.jar"
+    "FileName": "lithium-fabric-mc1.20.4-0.12.1.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/lithium-fabric-mc1.20.4-0.12.1.jar"
   },
   {
-    "Title": "Lithium",
-    "Description": "Глобальный оптимизатор физики, логики ИИ мобов и просчета чанков. Основа плавности работы игрового мира.",
+    "Title": "make bubbles pop",
+    "Description": "Модификация make bubbles pop. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "lithium-fabric-mc1.20.1-0.11.2.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/lithium-fabric-mc1.20.1-0.11.2.jar"
+    "FileName": "make_bubbles_pop-0.2.0-fabric-mc1.19.4+.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/make_bubbles_pop-0.2.0-fabric-mc1.19.4+.jar"
   },
   {
-    "Title": "Make Bubbles Pop",
-    "Description": "Эффекты: делает пузырьки воздуха под водой живыми — они всплывают с физикой и реалистично лопаются.",
+    "Title": "mcw bridges",
+    "Description": "Модификация mcw bridges. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "make_bubbles_pop-0.2.0-fabric-1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/make_bubbles_pop-0.2.0-fabric-1.20.1.jar"
+    "FileName": "mcw-bridges-3.1.0-mc1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-bridges-3.1.0-mc1.20.4fabric.jar"
   },
   {
-    "Title": "Memory Leak Fix",
-    "Description": "Анти-утчека: исправляет баги в коде игры, из-за которых при долгой сессии или частой смене серверов забивалась оперативная память.",
+    "Title": "mcw doors",
+    "Description": "Модификация mcw doors. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "memoryleakfix-fabric-1.1.5a.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/memoryleakfix-fabric-1.1.5a.jar"
+    "FileName": "mcw-doors-1.1.2-mc1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-doors-1.1.2-mc1.20.4fabric.jar"
   },
   {
-    "Title": "MidnightLib",
-    "Description": "Универсальное легкое меню конфигураций, используемое многими авторами модификаций для настроек кнопок.",
+    "Title": "mcw fences",
+    "Description": "Модификация mcw fences. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "midnightlib-1.4.1-fabric.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/midnightlib-1.4.1-fabric.jar"
+    "FileName": "mcw-fences-1.2.0-1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-fences-1.2.0-1.20.4fabric.jar"
   },
   {
-    "Title": "Mixinsquared",
-    "Description": "Техническая утилита, предотвращающая внутренние конфликты между несколькими инъекциями кода Mixin от разных разработчиков.",
+    "Title": "mcw furniture",
+    "Description": "Модификация mcw furniture. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "mixinsquared-fabric-0.1.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mixinsquared-fabric-0.1.1.jar"
+    "FileName": "mcw-furniture-3.3.0-mc1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-furniture-3.3.0-mc1.20.4fabric.jar"
   },
   {
-    "Title": "Model Gap Fix",
-    "Description": "Графический фикс: убирает раздражающие белые линии, швы и прозрачные зазоры на стыках 3D-моделей предметов в руках.",
+    "Title": "mcw lights",
+    "Description": "Модификация mcw lights. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "modelgapfix-1.20.1-1.4.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modelgapfix-1.20.1-1.4.jar"
+    "FileName": "mcw-lights-1.1.2-mc1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-lights-1.1.2-mc1.20.4fabric.jar"
   },
   {
-    "Title": "ModernFix",
-    "Description": "Комплексный патч движка: ускоряет загрузку игры в 2-3 раза и серьезно уменьшает базовое потребление памяти.",
+    "Title": "mcw paths",
+    "Description": "Модификация mcw paths. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "modernfix-fabric-5.15.0+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modernfix-fabric-5.15.0%2B1.20.1.jar"
+    "FileName": "mcw-paths-1.1.0fabric-mc1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-paths-1.1.0fabric-mc1.20.4.jar"
   },
   {
-    "Title": "Mod Menu",
-    "Description": "Добавляет в главное меню игры полноценный, красивый список всех установленных модов с возможностью зайти в настройки каждого.",
+    "Title": "mcw roofs",
+    "Description": "Модификация mcw roofs. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "modmenu-7.2.2.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modmenu-7.2.2.jar"
+    "FileName": "mcw-roofs-2.3.2-mc1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-roofs-2.3.2-mc1.20.4fabric.jar"
   },
   {
-    "Title": "Mod Menu Badges",
-    "Description": "Интерфейс: добавляет наглядные цветные ярлыки (клиентский, серверный, библиотека) в общем списке Mod Menu.",
+    "Title": "mcw stairs",
+    "Description": "Модификация mcw stairs. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "modmenu-badges-lib-2.2.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modmenu-badges-lib-2.2.0.jar"
+    "FileName": "mcw-stairs-1.0.1-1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-stairs-1.0.1-1.20.4fabric.jar"
   },
   {
-    "Title": "More Chat History",
-    "Description": "Увеличивает стандартный лимит истории игрового чата со 100 сообщений до 16 000 строк — вы больше не потеряете важный текст.",
+    "Title": "mcw trapdoors",
+    "Description": "Модификация mcw trapdoors. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "MoreChatHistory-1.1.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/MoreChatHistory-1.1.1.jar"
+    "FileName": "mcw-trapdoors-1.1.4-mc1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-trapdoors-1.1.4-mc1.20.4fabric.jar"
   },
   {
-    "Title": "Mouse Tweaks",
-    "Description": "Мега-удобство инвентаря: позволяет быстро распределять предметы зажатием мышки, колесиком или протаскиванием стака.",
+    "Title": "mcw windows",
+    "Description": "Модификация mcw windows. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "MouseTweaks-fabric-mc1.20.1-2.25.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/MouseTweaks-fabric-mc1.20.1-2.25.jar"
+    "FileName": "mcw-windows-2.4.0-1.20.4fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/mcw-windows-2.4.0-1.20.4fabric.jar"
   },
   {
-    "Title": "Not Enough Animations",
-    "Description": "Визуал от 3-го лица: заставляет вашего персонажа реалистично сидеть, ползать, удерживать карту двумя руками и пить из бутылочки.",
+    "Title": "memoryleakfix",
+    "Description": "Модификация memoryleakfix. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "notenoughanimations-fabric-1.7.1-mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/notenoughanimations-fabric-1.7.1-mc1.20.1.jar"
+    "FileName": "memoryleakfix-fabric-1.17+-1.1.5.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
   },
   {
-    "Title": "Puzzles Lib",
-    "Description": "Многофункциональное ядро разработки, координирующее кастомные декоративные и геймплейные элементы.",
+    "Title": "midnightlib",
+    "Description": "Модификация midnightlib. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "puzzleslib-fabric-8.1.20.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/puzzleslib-fabric-8.1.20.jar"
+    "FileName": "midnightlib-fabric-1.5.3.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/midnightlib-fabric-1.5.3.jar"
   },
   {
-    "Title": "Reeses Sodium Options",
-    "Description": "Исправляет стандартное громоздкое меню настроек Sodium на очень чистое, структурированное и удобное.",
+    "Title": "modelfix",
+    "Description": "Модификация modelfix. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/reeses_sodium_options-1.7.2%2Bmc1.20.1-build.101.jar"
+    "FileName": "modelfix-1.14-fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modelfix-1.14-fabric.jar"
   },
   {
-    "Title": "Satin",
-    "Description": "Высокопроизводительная библиотека постобработки графических шейдеров внутри сборки Fabric.",
+    "Title": "modernfix",
+    "Description": "Модификация modernfix. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "satin-1.14.0.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/satin-1.14.0.jar"
+    "FileName": "modernfix-fabric-5.17.0+mc1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modernfix-fabric-5.17.0+mc1.20.4.jar"
   },
   {
-    "Title": "Searchables",
-    "Description": "Системный плагин, реализующий продвинутый умный поиск элементов по ключевым словам в игровых меню.",
+    "Title": "modmenu",
+    "Description": "Модификация modmenu. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "Searchables-fabric-1.20.1-1.0.3.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Searchables-fabric-1.20.1-1.0.3.jar"
+    "FileName": "modmenu-9.0.0.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modmenu-9.0.0.jar"
   },
   {
-    "Title": "Skin Layers 3D",
-    "Description": "3D-скины: превращает плоский второй слой скинов игроков в полноценную, объемную трехмерную структуру (волосы, очки, одежда становятся выпуклыми).",
+    "Title": "modmenu badges lib",
+    "Description": "Модификация modmenu badges lib. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "3dskinlayers-fabric-1.6.2-mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/3dskinlayers-fabric-1.6.2-mc1.20.1.jar"
+    "FileName": "modmenu-badges-lib-2023.6.1.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/modmenu-badges-lib-2023.6.1.jar"
   },
   {
-    "Title": "Smooth GUI",
-    "Description": "Плавность: добавляет приятный мягкий визуальный эффект при открытии любых контейнеров или окон интерфейса.",
+    "Title": "notenoughanimations",
+    "Description": "Модификация notenoughanimations. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "smoothgui-fabric-1.1.5+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/smoothgui-fabric-1.1.5%2B1.20.1.jar"
+    "FileName": "notenoughanimations-fabric-1.7.3-mc1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/notenoughanimations-fabric-1.7.3-mc1.20.4.jar"
   },
   {
-    "Title": "Smooth Swapping",
-    "Description": "Приятные детали: предметы при автоматической сортировке инвентаря перелетают на свои новые места по красивой плавной траектории.",
+    "Title": "nvidium",
+    "Description": "Модификация nvidium. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "smoothswapping-fabric-1.20.1-0.2.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/smoothswapping-fabric-1.20.1-0.2.1.jar"
+    "FileName": "nvidium-0.2.6-beta.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/nvidium-0.2.6-beta.jar"
   },
   {
-    "Title": "Sodium",
-    "Description": "Флагманский оптимизатор графического движка Minecraft. Переписывает рендеринг чанков с нуля, поднимая FPS в несколько раз.",
+    "Title": "reeses sodium options",
+    "Description": "Модификация reeses sodium options. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "sodium-fabric-mc1.20.1-0.5.8.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/sodium-fabric-mc1.20.1-0.5.8.jar"
+    "FileName": "reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/reeses_sodium_options-1.7.2+mc1.20.4-build.102.jar"
   },
   {
-    "Title": "Sodium Extra",
-    "Description": "Добавляет в меню Sodium вкладки для детальной ручной настройки анимаций, частиц, тумана и мелких графических систем.",
+    "Title": "satin",
+    "Description": "Модификация satin. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "sodium-extra-fabric-0.5.4+mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/sodium-extra-fabric-0.5.4%2Bmc1.20.1.jar"
+    "FileName": "satin-1.16.0.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/satin-1.16.0.jar"
   },
   {
-    "Title": "Sound Physics Remastered",
-    "Description": "Реалистичный звук: добавляет физику эха в глубоких пещерах, приглушение звуков за толстыми стенами и красивую реверберацию.",
+    "Title": "seamless",
+    "Description": "Модификация seamless. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "sound-physics-remastered-fabric-1.20.1-1.3.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/sound-physics-remastered-fabric-1.20.1-1.3.1.jar"
+    "FileName": "seamless-2.2.2-fabric-1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/seamless-2.2.2-fabric-1.20.4.jar"
   },
   {
-    "Title": "Stack Refill",
-    "Description": "Удобство: автоматически ставит в активный слот новый стак блоков из инвентаря, если предыдущий закончился, или инструмент при поломке.",
+    "Title": "skinlayers3d",
+    "Description": "Модификация skinlayers3d. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "stackrefill-fabric-1.20.1-1.0.2.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/stackrefill-fabric-1.20.1-1.0.2.jar"
+    "FileName": "skinlayers3d-fabric-1.6.5-mc1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/skinlayers3d-fabric-1.6.5-mc1.20.4.jar"
   },
   {
-    "Title": "Status Effect Bars",
-    "Description": "Интерфейс: заменяет стандартные мелкие значки эффектов зелий в углу экрана на удобные информативные полоски с таймерами.",
+    "Title": "smoothgui",
+    "Description": "Модификация smoothgui. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "statuseffectbars-fabric-1.20.1-1.0.3.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/statuseffectbars-fabric-1.20.1-1.0.3.jar"
+    "FileName": "smoothgui-0.1.0.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/smoothgui-0.1.0.jar"
   },
   {
-    "Title": "Trading Post",
-    "Description": "Полезный блок: добавляет торговый пост, позволяющий просматривать сделки и торговать со всеми ближайшими жителями деревни через одно удобное окно.",
+    "Title": "smoothswapping",
+    "Description": "Модификация smoothswapping. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "tradingpost-fabric-1.20.1-8.0.2.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/tradingpost-fabric-1.20.1-8.0.2.jar"
+    "FileName": "smoothswapping-0.9.2-1.20.4-fabric.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/smoothswapping-0.9.2-1.20.4-fabric.jar"
   },
   {
-    "Title": "Visuality",
-    "Description": "Сочные эффекты: добавляет мелкие частицы брызг крови при ударах по мобам, искры от золотой руды и слизь в топях.",
+    "Title": "sodium extra",
+    "Description": "Модификация sodium extra. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "visuality-fabric-0.7.1+1.20.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/visuality-fabric-0.7.1%2B1.20.jar"
+    "FileName": "sodium-extra-0.5.4+mc1.20.4-build.116.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/sodium-extra-0.5.4+mc1.20.4-build.116.jar"
   },
   {
-    "Title": "Wakes",
-    "Description": "Красивая вода: добавляет динамические волны, следы пены и брызги на воде от плывущих лодок, сущностей или брошенных предметов.",
+    "Title": "sodium",
+    "Description": "Модификация sodium. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "wakes-0.2.2+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/wakes-0.2.2%2B1.20.1.jar"
+    "FileName": "sodium-fabric-0.5.8+mc1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/sodium-fabric-0.5.8+mc1.20.4.jar"
   },
   {
-    "Title": "Wavey Capes",
-    "Description": "Физика плащей: заменяет статичные плоские плащи на полноценные тканевые 3D-модели, которые реалистично колышутся при беге и прыжках.",
+    "Title": "stackrefill",
+    "Description": "Модификация stackrefill. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "waveycapes-fabric-1.4.3-mc1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/waveycapes-fabric-1.4.3-mc1.20.1.jar"
+    "FileName": "stackrefill-1.20.4-4.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/stackrefill-1.20.4-4.4.jar"
   },
   {
-    "Title": "Xaero's Minimap",
-    "Description": "Выводит настраиваемую, плавную миникарту в углу экрана, отображающую рельеф, пещеры, путевые точки и радар ближайших мобов.",
+    "Title": "t and t",
+    "Description": "Модификация t and t. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "Xaeros_Minimap_24.1.1_Fabric_1.20.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Xaeros_Minimap_24.1.1_Fabric_1.20.jar"
+    "FileName": "t_and_t-1.13.1b.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/t_and_t-1.13.1b.jar"
   },
   {
-    "Title": "Xaero's World Map",
-    "Description": "Полноэкранная интерактивная карта всего исследованного вами игрового мира с поддержкой меток, зума и слоев высот.",
+    "Title": "visuality",
+    "Description": "Модификация visuality. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "XaerosWorldMap_1.38.4_Fabric_1.20.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/XaerosWorldMap_1.38.4_Fabric_1.20.jar"
+    "FileName": "visuality-0.7.4+1.20.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/visuality-0.7.4+1.20.4.jar"
   },
   {
-    "Title": "Yet Another Config Lib (YACL)",
-    "Description": "Современное стильное ядро настроек конфигурации, предоставляющее красивый и удобный UI интерфейс для кастомизации элементов управления.",
+    "Title": "wakes",
+    "Description": "Модификация wakes. Проверенная и оптимизированная версия для нашей сборки.",
     "Version": "v1.0",
-    "FileName": "YetAnotherConfigLib-3.2.2+1.20.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/YetAnotherConfigLib-3.2.2%2B1.20.jar"
-  },
-  {
-    "Title": "Zoomify",
-    "Description": "Продвинутый зум: заменяет классическое приближение камеры на кинематографический зум с плавной регулировкой колесиком мыши.",
-    "Version": "v1.0",
-    "FileName": "zoomify-fabric-2.11.2+1.20.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/zoomify-fabric-2.11.2%2B1.20.1.jar"
+    "FileName": "wakes-0.2.4.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/wakes-0.2.4.jar"
   }
 ]
