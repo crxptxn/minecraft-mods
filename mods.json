@@ -150,8 +150,8 @@
     "Title": "Debugify",
     "Description": "Исправляет более 60 известных и подтвержденных багов самой игры Minecraft без изменения ванильной механики.",
     "Version": "v1.0",
-    "FileName": "debugify-fabric-2.0.1.jar",
-    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/debugify-fabric-2.0.1.jar"
+    "FileName": "Debugify-1.20.4+1.1.jar",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/Debugify-1.20.4+1.1.jar"
   },
   {
     "Title": "Diagonal Fences",
