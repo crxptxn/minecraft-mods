@@ -1,0 +1,16 @@
+[
+  {
+    "Title": "Sodium Extra",
+    "Description": "Расширенное меню настроек для мода Sodium. Позволяет детально настроить анимации, частицы и микро-оптимизации.",
+    "Version": "v0.5.4",
+    "DownloadUrl": "https://raw.githubusercontent.com/crxptxn/minecraft-mods/main/mods/sodium-extra-fabric-0.5.4.jar",
+    "FileName": "sodium-extra-fabric-0.5.4.jar"
+  },
+  {
+    "Title": "Reeses Sodium Options",
+    "Description": "Альтернативный, более чистый и удобный интерфейс настроек графики для Sodium.",
+    "Version": "v1.7.2",
+    "DownloadUrl": "https://raw.githubusercontent.com/c/minecraft-mods/main/mods/reeses_sodium_options-1.7.2.jar",
+    "FileName": "reeses_sodium_options-1.7.2.jar"
+  }
+]
